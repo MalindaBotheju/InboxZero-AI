@@ -41,7 +41,7 @@
     ```
 
 ## 📸 Screenshots
-*(You can upload a screenshot of your dashboard here later)*
+![InboxZero AI Interface](Screenshot.png)
 
 ---
 *Built by Malinda Botheju.*
